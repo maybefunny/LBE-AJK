@@ -5,9 +5,9 @@ week 2</br>
 pengantar ctf & linux</br>
 
 week 3</br>
-cryptograph & web app</br>
+cryptograph & forensic</br>
 
 week 4</br>
-networking</br>
+networking & web app</br>
 
 week 5</br>
